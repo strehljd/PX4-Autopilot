@@ -5,6 +5,7 @@
 # The simulator is expected to send to TCP port 4560+i for i in [0, N-1]
 # For example gazebo can be run like this:
 #./Tools/simulation/gazebo-classic/sitl_multiple_run.sh -n 10 -m iris
+# Test Hello World
 
 function cleanup() {
 	pkill -x px4
