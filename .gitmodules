@@ -13,6 +13,7 @@
 [submodule "Tools/simulation/gazebo-classic/sitl_gazebo-classic"]
 	path = Tools/simulation/gazebo-classic/sitl_gazebo-classic
 	url = git@github.com:strehljd/PX4-SITL_gazebo-classic.git
+	# url = https://github.com/bringt-das-ueberhaupt-was?
 	branch=typhoon_model
 # 	branch = main
 [submodule "src/drivers/gps/devices"]
