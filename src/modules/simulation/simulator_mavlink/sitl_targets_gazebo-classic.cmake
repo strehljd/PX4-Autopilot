@@ -102,6 +102,7 @@ if(gazebo_FOUND)
 		techpod
 		tiltrotor
 		typhoon_h480
+		typhoon_irt
 		uuv_bluerov2_heavy
 		uuv_hippocampus
 	)
